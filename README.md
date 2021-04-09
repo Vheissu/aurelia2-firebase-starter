@@ -1,4 +1,4 @@
-Aurelia 2 Firebase Starter
+# Aurelia 2 Firebase Starter
 
 A functional Firebase application built using Aurelia 2.
 
